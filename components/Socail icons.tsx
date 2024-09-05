@@ -6,7 +6,7 @@ import React from 'react'
 
 function SocialIcon() {
   return (
-    <div className="mt-[2rem] flex-raw inline-flex space-x-4 justify-evenly items-center">
+    <div className="mt-[2rem] flex flex-raw space-x-4 justify-evenly items-center">
     <a
       href="https://www.linkedin.com/in/noman-anwar-746a06304/"
       title="Linkdin"
