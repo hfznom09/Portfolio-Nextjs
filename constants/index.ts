@@ -72,7 +72,7 @@ export const SkillData = [
     {
       title: "NextJs Portfolio Work",
       text: "Its my portfolio on Nextjs by using typescript, tailwindcss,  framer motion, react, reacticons, shedcn etc ",
-      src: "/Webportfolio.png",
+      src: "/Webportfolio.PNG",
     },
     {
       title: " Add New Task",
